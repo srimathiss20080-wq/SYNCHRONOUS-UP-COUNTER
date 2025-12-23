@@ -64,6 +64,6 @@ endmodulemodule ex11 (out,clk,rstn);
 
 **RESULTS**
 
-```
+
 Thus,implemented the synchronous-up-counter using verilog and validating their functionality using functional table.
-```
+
